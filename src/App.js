@@ -57,7 +57,9 @@ export default function App() {
               key={place.name}
               style={{
                 fontsize: "larger",
-                margin: "2rem",
+                marginTop: "2rem",
+                marginLeft: "20rem",
+                marginRight: "20rem",
                 border: "2px solid grey",
                 padding: "5px",
                 borderRadius: "5px"
